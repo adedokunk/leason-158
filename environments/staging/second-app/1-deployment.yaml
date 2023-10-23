@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: adedokunk/nginx:v0.1.1
+          image: adedokunk/nginx:v0.1.6
           ports:
             - containerPort: 80
